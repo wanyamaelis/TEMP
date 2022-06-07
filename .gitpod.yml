@@ -3,3 +3,5 @@ tasks:
       echo 'TODO: build project'
     command: |
       echo 'TODO: start app'
+      - name: GitHub Repo Sync
+  uses: repo-sync/github-sync@v2.3.0
