@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="ee14e845-3298-48c2-90bc-4e3ead8214c4" activeEnvironment="Default environment" name="Project 1" soapui-version="5.7.0" encryptionMode="Not encrypted" compositeProjectFormat="1.3" updated="3.40.1" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:properties/><con:wssContainer/><con:databaseConnectionContainer/><con:jmsConnectionContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:sensitiveInformation/><con:authRepository/><con:tags/></con:soapui-project>
